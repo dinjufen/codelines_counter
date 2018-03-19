@@ -10,7 +10,7 @@ code_lines:200
 comments:100
 blanks:20
 调用方法：在终端输入:python3 本文件名 路径 要查找的语言
-目前只统计了两种语言的（python和c），因为只了解这两个，其他的类似
+目前只统计了python的，其他的类似
 '''
 import sys
 import os
