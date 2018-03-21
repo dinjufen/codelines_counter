@@ -2,9 +2,7 @@
 '''
 设计一个程序，用于统计一个项目中的代码数，包括文件个数，
 代码行数，注释行数，空行行数
-尽量设计灵活一点可以通过输入不同参数来统计不同语言的项目
-例如：python counter.py --type python  用于统计python代码，type是java就用于统计java代码
-输出：
+例如：
 files:10
 code_lines:200
 comments:100
