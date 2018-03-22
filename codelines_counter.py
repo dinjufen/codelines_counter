@@ -13,7 +13,6 @@ blanks:20
 import sys
 import os
 
-fpath = sys.argv[1]
 
 def findFiles(path, L):
     try:
